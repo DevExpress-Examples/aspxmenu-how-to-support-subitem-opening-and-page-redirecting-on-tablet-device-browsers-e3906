@@ -7,6 +7,9 @@
 * [Default2.aspx](./CS/WebSite/Default2.aspx) (VB: [Default2.aspx](./VB/WebSite/Default2.aspx))
 <!-- default file list end -->
 # ASPxMenu - How to support subitem opening and page redirecting on tablet device browsers
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3906/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to support page redirecting and opening the item's sub item list  by clicking a menu item. Clicking an item text area causes page redirecting. Clicking any other item's area causes opening a sub items list<br />
